@@ -1,0 +1,15 @@
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\bin\Debug\JD_CashRegister.exe.config
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\bin\Debug\JD_CashRegister.exe
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\bin\Debug\JD_CashRegister.pdb
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\MainWindow.g.cs
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\App.g.cs
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister_MarkupCompile.cache
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister_MarkupCompile.lref
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\MainWindow.baml
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.g.resources
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.Properties.Resources.resources
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.csproj.GenerateResource.Cache
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.exe
+c:\users\josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.pdb
+C:\Users\Josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\App.baml
+C:\Users\Josh\source\repos\JD_CashRegister\JD_CashRegister\obj\Debug\JD_CashRegister.csprojAssemblyReference.cache
